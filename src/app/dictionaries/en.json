@@ -1,0 +1,13 @@
+{
+  "home": {
+    "epic_phrase_pt1": "Train hard, stay focused, and",
+    "epic_phrase_pt2": "never give up",
+    "start_btn": "Start"
+  },
+  "auth": {
+    "epic_phrase_pt1": "What separates you from the rest",
+    "epic_phrase_pt2": "is constancy",
+    "login_btn": "Login",
+    "register_btn": "Register"
+  }
+}

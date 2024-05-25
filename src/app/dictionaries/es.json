@@ -1,0 +1,13 @@
+{
+  "home": {
+    "epic_phrase_pt1": "Entrena duro, enfocado y",
+    "epic_phrase_pt2": "nunca te rindas",
+    "start_btn": "Comenzar"
+  },
+  "auth": {
+    "epic_phrase_pt1": "Lo que te separa del resto",
+    "epic_phrase_pt2": "es la constancia",
+    "login_btn": "Iniciar sesión",
+    "register_btn": "Registrarse"
+  }
+}
