@@ -24,7 +24,6 @@ export default async function Home({ params }: { params: { lang: string } }) {
         <div className="flex justify-center items-center gap-4 m-auto">
           <Circle href='/' backgroundColor="bg-gray-300" />
           <Circle href={`/${params.lang}/auth`} backgroundColor="bg-orange-600" />
-          <Circle href='' backgroundColor="bg-gray-300" />
         </div>
         <div className="text-white text-center w-full rounded-full font-semibold text-lg flex justify-between items-center">
           <Link href="" className='w-1/2 h-full rounded-l-full bg-stone-900 py-3 text-center'>{dict.auth.login_btn}</Link>
