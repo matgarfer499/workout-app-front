@@ -9,5 +9,15 @@
     "epic_phrase_pt2": "is constancy",
     "login_btn": "Login",
     "register_btn": "Register"
+  },
+  "login": {
+    "title": "Welcome",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "I forgot ",
+    "forgot_password": "my password",
+    "login_btn": "login",
+    "not_registered": "Not registered? ",
+    "register": "Register"
   }
 }

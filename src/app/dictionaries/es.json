@@ -9,5 +9,15 @@
     "epic_phrase_pt2": "es la constancia",
     "login_btn": "Iniciar sesión",
     "register_btn": "Registrarse"
+  },
+  "login": {
+    "title": "Bienvenido ",
+    "title_pt2": "de nuevo",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgot": "Olvidé ",
+    "forgot_password": "mi contraseña",
+    "not_registered": "¿No tienes una cuenta? ",
+    "register": "Regístrate"
   }
 }
